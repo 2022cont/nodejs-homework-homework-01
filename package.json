@@ -1,0 +1,33 @@
+{
+  "name": "nodejs-homework-homework-01",
+  "version": "1.0.0",
+  "description": "first homework",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2022cont/nodejs-homework-homework-01.git"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2022cont/nodejs-homework-homework-01/issues"
+  },
+  "homepage": "https://github.com/2022cont/nodejs-homework-homework-01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "commander": "^10.0.0",
+    "nanoid": "^3.3.4",
+    "yargs": "^17.7.1"
+  }
+}
